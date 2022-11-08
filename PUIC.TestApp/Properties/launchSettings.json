@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "PUIC.TestApp (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "PUIC.TestApp (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
